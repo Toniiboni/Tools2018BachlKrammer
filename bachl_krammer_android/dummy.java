@@ -7,6 +7,7 @@ public class dummy {
 
 	public void thisIsANewMethod() { 
 		System.out.println("HIIIII");
+		String david = "nice";
 	}
 
 }
